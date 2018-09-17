@@ -1,13 +1,14 @@
 {
 	"plugin-data":
 	{
-		"name": "Google Araçları",
-		"description": "Bu eklenti Google Webmaster Araçlarını kullanabilmeniz ve sitenizin Google Analytics tarafından incelenebilmesi için geçerli bir meta tag ve Javascript kodu oluşturur."
+		"name": "Google",
+		"description": "Bu eklenti, aşağıdaki Google araçları için gerekli kodu oluşturur: Google Analytics, Google Etiket Yöneticisi ve Google Site Doğrulama HTML Etiketi."
 	},
-	"google-webmasters-tools": "Google Webmaster Araçları",
-	"google-analytics-tracking-id": "Google Analytics İzleme No",
-	"google-tag-manager": "Google Tag Manager",
-	"complete-this-field-with-the-google-site-verification": "Google Site Doğrulama ile bu alanı doldurarak sitenizi doğrulayın",
-	"complete-this-field-with-the-tracking-id": "Bu alanı İzleme No ile doldurarak Google Analytics için Javascript kodu oluşturun.",
-	"complete-this-field-with-the-tracking-id-google-tag": "Bu alanı İzleme No ile doldurarak için Javascript kodu oluşturun."
+
+	"google-webmasters-tools": "Google Web Yöneticileri araçları",
+	"google-analytics-tracking-id": "Google Analytics İzleme kimliği",
+	"google-tag-manager": "Google Etiket Yöneticisi",
+	"complete-this-field-with-the-google-site-verification": "Site sahibini doğrulamak için bu alanı Google Site doğrulama ile tamamlayın.",
+	"complete-this-field-with-the-tracking-id": "Google Analytics için Javascript izleme kodunu oluşturmak için bu alanı İzleme Kimliği ile tamamlayın.",
+	"complete-this-field-with-the-tracking-id-google-tag": "Google Etiket Yöneticisi için Javascript izleme kodunu oluşturmak için İzleme Kimliği ile bu alanı doldurun."
 }
